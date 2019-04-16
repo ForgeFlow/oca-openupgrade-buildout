@@ -57,5 +57,6 @@ unidecode==1.0.22
 unicodecsv==0.14.1
 
 # TODO: set version for:
+GitPython
 # mysqlclient
 # sqlalchemy
